@@ -16,7 +16,8 @@ namespace TestCloudTest
 		[SetUp]
 		public void BeforeEachTest ()
 		{
-			app = ConfigureApp.Android.ApkFile("C:/Users/cmskoubo/desktop/free.crapFoodNotifyMe.Android.apk").StartApp();
+			//Edit the path before running the test.
+			app = ConfigureApp.Android.ApkFile("release/free.crapFoodNotifyMe.Android.apk").StartApp();
 		}
 
 		[Test]
