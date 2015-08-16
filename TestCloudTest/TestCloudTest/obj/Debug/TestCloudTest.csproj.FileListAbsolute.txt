@@ -1,0 +1,9 @@
+C:\Users\cmskoubo\Documents\Projects\TestCloudTest\TestCloudTest\bin\Debug\TestCloudTest.dll
+C:\Users\cmskoubo\Documents\Projects\TestCloudTest\TestCloudTest\bin\Debug\TestCloudTest.pdb
+C:\Users\cmskoubo\Documents\Projects\TestCloudTest\TestCloudTest\bin\Debug\nunit.framework.dll
+C:\Users\cmskoubo\Documents\Projects\TestCloudTest\TestCloudTest\bin\Debug\Xamarin.UITest.dll
+C:\Users\cmskoubo\Documents\Projects\TestCloudTest\TestCloudTest\bin\Debug\nunit.framework.xml
+C:\Users\cmskoubo\Documents\Projects\TestCloudTest\TestCloudTest\bin\Debug\Xamarin.UITest.xml
+C:\Users\cmskoubo\Documents\Projects\TestCloudTest\TestCloudTest\obj\Debug\TestCloudTest.csprojResolveAssemblyReference.cache
+C:\Users\cmskoubo\Documents\Projects\TestCloudTest\TestCloudTest\obj\Debug\TestCloudTest.dll
+C:\Users\cmskoubo\Documents\Projects\TestCloudTest\TestCloudTest\obj\Debug\TestCloudTest.pdb

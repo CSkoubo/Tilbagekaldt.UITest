@@ -1,0 +1,8 @@
+C:\Users\cmskoubo\Documents\Projects\TestCloudTest\TestCloudTest\bin\Release\TestCloudTest.dll
+C:\Users\cmskoubo\Documents\Projects\TestCloudTest\TestCloudTest\bin\Release\TestCloudTest.pdb
+C:\Users\cmskoubo\Documents\Projects\TestCloudTest\TestCloudTest\bin\Release\nunit.framework.dll
+C:\Users\cmskoubo\Documents\Projects\TestCloudTest\TestCloudTest\bin\Release\Xamarin.UITest.dll
+C:\Users\cmskoubo\Documents\Projects\TestCloudTest\TestCloudTest\bin\Release\nunit.framework.xml
+C:\Users\cmskoubo\Documents\Projects\TestCloudTest\TestCloudTest\bin\Release\Xamarin.UITest.xml
+C:\Users\cmskoubo\Documents\Projects\TestCloudTest\TestCloudTest\obj\Release\TestCloudTest.dll
+C:\Users\cmskoubo\Documents\Projects\TestCloudTest\TestCloudTest\obj\Release\TestCloudTest.pdb
